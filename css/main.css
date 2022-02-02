@@ -1,0 +1,93 @@
+.main-header .header-upper .logo-box {
+    position: absolute;
+    float: left;
+    left: 0;
+    top: -88px;
+    width: 211px;
+    height: 232px;
+    overflow: hidden;
+    z-index: 10;
+}
+.main-header .header-top {
+    position: relative;
+    background-color: #fff;
+    color: #7AC11D;
+    height: 120px;
+}
+.main-header .header-top .top-right {
+    position: relative;
+    float: left;
+    padding: 15px 15px;
+    top: 31px;
+
+}
+.main-header .header-top .inner {
+    position: relative;
+    padding-left: 120px;
+}
+.main-header .nav-outer .main-menu {
+    position: relative;
+    float: right;
+}
+.main-header .header-upper {
+    /*background: #7AC11D;*/
+    background: #0C8535;
+}
+.main-header .header-upper .inner-container {
+    padding-left: 216px;
+    min-height: 120px;
+}
+
+.main-footer .widgets-section {
+    position: relative;
+    padding: 35px 0px;
+}
+.about-section {
+    position: relative;
+    padding: 65px 0px 63px;
+    background-color: #edf1f5;
+}
+.about-section .left-column .sec-title .text {
+    padding-top: 2px;
+    font-family: 'Font Awesome 5 Brands';
+    font-size: 20px;
+}
+.main-menu .navigation > li > a {
+    color: #fff;
+}
+.design{
+    text-align: center;
+    left: 270px;
+}
+.inner-box{
+    min-height: 285px !important;
+}
+.news-block .inner-box .lower-content {
+    position: relative;
+    padding: 4px 16px 2px;
+}
+.text-details{
+     line-height: 1.6em;
+    font-size: 14px;
+    margin-bottom: 30px;
+}
+.text-details ul li{
+    list-style-type: square;
+    margin-left: 20px;
+    font-family: 'Font Awesome 5 Brands';
+}
+.lower-content h3{
+    text-align: center;
+    margin-bottom: 8px;
+}
+.news-block .inner-box {
+    padding-top: 10px;
+}
+th, td {
+  padding: 15px;
+}
+.event-details .inner-box .lower-content {
+    margin-left: 10%;
+    margin-right: 10%;
+    text-align: center;
+}
